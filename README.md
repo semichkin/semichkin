@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semichkin
+- 👋 Hi, I’m @semichkin, Senior++ golang developer
 - 👀 I’m interested in new knowledges
 - 🌱 I’m currently learning web, golang
 - 📫 How to reach me: [@semichkin](mailto:bulat.gab2000@gmail.com)
